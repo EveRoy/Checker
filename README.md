@@ -54,13 +54,17 @@ cd <repository_folder>
 ### Set Permissions
 
 ```bash
-chmod +x bash.sh
+chmod +x chekcer.sh
 ```
 
 ### Execute the Script
 
 ```bash
-./bash.sh
+./chekcer.sh
+```
+OR 
+```bash
+sudo ./chekcer.sh
 ```
 
 Follow the guided prompts to select targets and execute simulated security tests.
@@ -90,3 +94,5 @@ Your contributions are welcome! Please follow these steps:
 ## License
 
 This toolkit is intended strictly for educational use only.
+
+
