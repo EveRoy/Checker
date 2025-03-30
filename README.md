@@ -47,8 +47,8 @@ sudo apt install nmap hydra ettercap-text-only hping3 figlet
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/EveRoy/Checker.git
+cd checker
 ```
 
 ### Set Permissions
