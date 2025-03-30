@@ -1,4 +1,4 @@
-# Chekcer
+# Checker
 Bash automation for SOC security drills and simulated attack scenarios.
 
 # SOC Security Testing Automation Toolkit
